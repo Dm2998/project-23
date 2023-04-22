@@ -1,0 +1,152 @@
+/* Start of Footer CSS */
+
+/* Footer container */
+.footer {
+  padding: 0.5px 0; /* Padding at the top and bottom */
+  margin-top: auto; /* Margin at the top to automatically fill the remaining space */
+}
+
+/* Footer paragraph text */
+.footer p {
+  font-size: 0.85rem; /* Font size */
+  color: #f8f9fa; /* Text color */
+}
+
+/* Footer icon link */
+.footer-icon-link {
+  color: #f8f9fa; /* Text color */
+  font-size: 1.5rem; /* Font size */
+  transition: color 0.2s; /* Smooth color transition */
+}
+
+/* Footer icon transition */
+.footer-icon-link i {
+  transition: transform 0.2s; /* Smooth transform transition */
+}
+
+/* Footer icon link hover */
+.footer-icon-link:hover {
+  text-decoration: none; /* No text decoration on hover */
+}
+
+/* Footer icon link hover scaling */
+.footer-icon-link:hover i {
+  transform: scale(1.2); /* Scale the icon on hover */
+}
+
+/* Footer icon link hover colors */
+.facebook-icon:hover {
+  color: #283dff;
+}
+
+.github-icon:hover {
+  color: #6c757d;
+}
+
+.linkedin-icon:hover {
+  color: #419cf7;
+}
+
+/* Footer row border */
+.footer .row:first-child {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* Border at the bottom */
+  margin-bottom: 0.5rem; /* Margin below the border */
+}
+
+/* Newsletter */
+/* Footer form alignment */
+.footer form {
+  text-align: center; /* Center the form content */
+}
+
+/* Footer form title */
+.footer form h5 {
+  color: #f8f9fa; /* Text color */
+  margin-bottom: 0.5rem; /* Margin below the title */
+}
+
+/* Footer form description */
+.footer form p {
+  color: #adb5bd; /* Text color */
+  font-size: 1rem; /* Font size */
+  margin-bottom: 0.5rem; /* Margin below the description */
+}
+
+/* Footer form input */
+.footer form .form-control {
+  background-color: rgba(255, 255, 255, 0.1); /* Background color */
+  border: none; /* No border */
+  color: #f8f9fa; /* Text color */
+  margin-bottom: 0.5rem; /* Margin below the input */
+  transition: background-color 0.2s; /* Smooth background color transition */
+}
+
+/* Footer form input focus */
+.footer form .form-control:focus {
+  background-color: rgba(255, 255, 255, 0.2); /* Background color on focus */
+  box-shadow: none; /* No box shadow on focus */
+  outline: none; /* No outline on focus */
+}
+
+/* Footer form button */
+.footer form .btn {
+  background-color: #c0392b; /* Background color */
+  border: none; /* No border */
+  transition: background-color 0.2s; /* Smooth background color transition */
+}
+
+/* Footer form button hover */
+.footer form .btn:hover {
+  background-color: #c0392b; /* Background color on hover */
+}
+
+/* End of Footer CSS */
+
+/* Start of Button CSS */
+.btn-subscribe {
+  background-color: #e74c3c; /* Background color */
+  color: #fff; /* Text color */
+  border: none; /* No border */
+  font-weight: bold; /* Bold text */
+  padding: 0.5rem 1rem; /* Padding around the button */
+  border-radius: 5px; /* Rounded button corners */
+  transition: background-color 0.2s, transform 0.2s; /* Smooth background color and scaling transitions */
+}
+
+/* Button hover */
+.btn-subscribe:hover {
+  background-color: #c0392b; /* Background color on hover */
+  text-decoration: none; /* No text decoration on hover */
+  transform: scale(1.1); /* Scale the button on hover */
+  transition: all 0.3s ease; /* Apply a smooth transition to all properties */
+}
+
+/* End of Button CSS */
+
+/* Start of Back to Top Button CSS */
+
+/* Back to top button container */
+#backToTop {
+  display: none; /* Initially hidden */
+  position: fixed; /* Fixed positioning */
+  bottom: 20px; /* 20px from the bottom of the viewport */
+  right: 30px; /* 30px from the right of the viewport */
+  z-index: 99; /* Stacking order */
+  font-family: 'Permanent Marker', cursive; /* Font family */
+  font-size: 13px; /* Font size */
+  border: none; /* No border */
+  outline: none; /* No outline */
+  background-color: transparent; /* Transparent background */
+  color: rgba(255, 51, 0, 0.774); /* Text color */
+  cursor: pointer; /* Pointer cursor */
+  padding: 10px; /* Padding around the button */
+  text-transform: uppercase; /* Uppercase text */
+}
+
+/* Back to top button hover */
+#backToTop:hover {
+  color: rgb(255, 166, 0); /* Text color on hover */
+}
+
+/* End of Back to Top Button CSS */
+
