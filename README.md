@@ -60,6 +60,7 @@ Our project aims to provide a bicycle rental service that caters to individual c
 Our bicycle rental project aims to provide a more accessible and sustainable transportation option for the city, utilizing high-tech sensors and GPS tracking to enhance the user experience. This report will analyze various aspects of the project, including the online reservation platform, rental locations, bike availability and pricing, and types of bicycles available. By providing a convenient and reliable transportation option, we aim to encourage more people to choose biking as a viable means of transportation, reducing traffic congestion and promoting a healthier lifestyle.
 
 <br>
+
 <h1>
 (Location, Contact Us, Registration, longin, Subscribe.)
 <br>
