@@ -61,10 +61,9 @@ Our bicycle rental project aims to provide a more accessible and sustainable tra
 
 <br>
 
-<h1>
 (Location, Contact Us, Registration, longin, Subscribe.)
 <br>
-<h1>
+
 Location Bike Shop Map. 
 <hr>
 <br>
