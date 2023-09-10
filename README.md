@@ -47,7 +47,7 @@ Project Rental Bike 2023
 
 #Bike Rental System
 
-Our project aims to provide a bicycle rental service that caters to individual clients for a specified period of time, offering affordable and convenient transportation options for tourists, commuters, and recreational cyclists. This may involve setting up rental stations at various locations throughout the city, offering a diverse selection of bicycles, and providing a user-friendly online reservation system for reserving bikes in advance. In addition, our project may also feature an on-demand bike rental option available through a mobile app for added convenience and flexibility.
+Project Rental Bike 2023 is an open-source bicycle rental service that aims to provide affordable and convenient transportation options for tourists, commuters, and recreational cyclists. This project involves setting up rental stations at various locations throughout the city, offering a diverse selection of bicycles, and providing a user-friendly online reservation system for reserving bikes in advance. Additionally, it features an interactive map connected to Google Maps API for enhanced browsing and real-time bike availability updates.
 
 <br>
 <br>
