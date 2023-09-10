@@ -52,7 +52,7 @@ Our project aims to provide a bicycle rental service that caters to individual c
 <br>
 <br>
 
-![image.png](/.attachments/image-ae6aa250-f109-4929-979d-e77721472e32.png)
+![image.png](/.attachments/image-ae6aa250-f109-4929-979d-e77721472e32.png
 
 <br>
 
