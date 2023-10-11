@@ -52,7 +52,7 @@ Project Rental Bike 2023 is an open-source bicycle rental service that aims to p
 <br>
 <br>
 
- ![Image](images/ae6aa250-f109-4929-979d-e77721472e32.png)
+ `![Image](images/ae6aa250-f109-4929-979d-e77721472e32.png)`
 
 ![image.png](/.attachments/image-ae6aa250-f109-4929-979d-e77721472e32.png
 
